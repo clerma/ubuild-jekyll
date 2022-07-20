@@ -18,6 +18,8 @@ sections:
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
+  templates:
+  - default
 - type: document
   path: _config.yml
   label: Config
