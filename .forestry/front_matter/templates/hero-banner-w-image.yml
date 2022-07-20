@@ -47,5 +47,3 @@ fields:
   - type: text
     name: button_text
     label: Button text
-pages:
-- _posts/Test Post.md
